@@ -1,4 +1,4 @@
-﻿Hello, my name is Rohit GOdara. I am a CE undergraduate from AIT< Pune and a budding backend developer. 
+﻿Hello, my name is Rohit GOdara. I am a CE undergraduate from AIT, Pune and a budding backend developer. 
 This repository contains the backend framework of a Lucky Draw Gaming Service. Users can use this service to get raffle tickets and win prizes. 
 I have implemented 5 APIs, which carry out the following functions respectively:
 * Allows users to get raffle tickets
